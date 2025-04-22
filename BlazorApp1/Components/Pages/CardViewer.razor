@@ -1,0 +1,50 @@
+@page "/Card"
+@inject IJSRuntime JS
+<PageTitle>Home</PageTitle>
+<div class="card-container">
+    <div id="pokemon-card" class="card">
+        <div class="card-front">
+            <img src="./IMG/arcanineEX.jpg" alt="Frente de la tarjeta">
+            <div class="rating-badge">
+                <div class="container-rating-score">
+                    <p class="rating-score">★ 8.3/10</p>
+                </div>
+            </div>
+        </div>
+        <div class="card-back">
+            <img src="./IMG/card_backside.png" alt="Reverso de la tarjeta">
+        </div>
+    </div>
+  
+  <div class="card-title">
+        <h1>Arcanine ex</h1>
+  </div>
+  
+  <div class="card-buttons-container">
+        <button type="button" class="">+ Favorite</button>
+        <button type="button" class="">+ Played</button>
+        <button type="button" class="">+ Wishlist</button>
+  </div>
+  
+  <div class="rating-stars">
+    <p>★</p>
+    <p>★</p>
+    <p>★</p>
+    <p>★</p>
+    <p>★</p>
+    <p>★</p>
+    <p>★</p>
+    <p>★</p>
+    <p>★</p>
+    <p>★</p>
+  </div>
+  
+  <div class="card-actions">
+  <div class="action">Review</div>
+  <div class="action">Follow</div>
+  <div class="action">Like</div>
+  </div>
+</div>
+
+<script src="./JS/CardViewer.js"></script>
+<script src="./JS/Particles.js"></script>

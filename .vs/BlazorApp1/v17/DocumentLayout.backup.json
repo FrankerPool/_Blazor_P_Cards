@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thela\\source\\repos\\BlazorApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC68ECA-BF6C-4015-8BB7-E06DEBCE5B32}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\thela\\source\\repos\\blazorapp1\\blazorapp1\\components\\pages\\cardviewer.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9CC68ECA-BF6C-4015-8BB7-E06DEBCE5B32}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\cardviewer.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC68ECA-BF6C-4015-8BB7-E06DEBCE5B32}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\thela\\source\\repos\\blazorapp1\\blazorapp1\\wwwroot\\js\\particles.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9CC68ECA-BF6C-4015-8BB7-E06DEBCE5B32}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\wwwroot\\js\\particles.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC68ECA-BF6C-4015-8BB7-E06DEBCE5B32}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\thela\\source\\repos\\blazorapp1\\blazorapp1\\components\\pages\\cardviewer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CC68ECA-BF6C-4015-8BB7-E06DEBCE5B32}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\cardviewer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC68ECA-BF6C-4015-8BB7-E06DEBCE5B32}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\thela\\source\\repos\\blazorapp1\\blazorapp1\\wwwroot\\js\\cardviewer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9CC68ECA-BF6C-4015-8BB7-E06DEBCE5B32}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\wwwroot\\js\\cardviewer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC68ECA-BF6C-4015-8BB7-E06DEBCE5B32}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\thela\\source\\repos\\blazorapp1\\blazorapp1\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CC68ECA-BF6C-4015-8BB7-E06DEBCE5B32}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC68ECA-BF6C-4015-8BB7-E06DEBCE5B32}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\thela\\source\\repos\\blazorapp1\\blazorapp1\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CC68ECA-BF6C-4015-8BB7-E06DEBCE5B32}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardViewer.js",
+              "DocumentMoniker": "C:\\Users\\thela\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\JS\\CardViewer.js",
+              "RelativeDocumentMoniker": "BlazorApp1\\wwwroot\\JS\\CardViewer.js",
+              "ToolTip": "C:\\Users\\thela\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\JS\\CardViewer.js",
+              "RelativeToolTip": "BlazorApp1\\wwwroot\\JS\\CardViewer.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-21T22:26:18.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Particles.js",
+              "DocumentMoniker": "C:\\Users\\thela\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\JS\\Particles.js",
+              "RelativeDocumentMoniker": "BlazorApp1\\wwwroot\\JS\\Particles.js",
+              "ToolTip": "C:\\Users\\thela\\source\\repos\\BlazorApp1\\BlazorApp1\\wwwroot\\JS\\Particles.js",
+              "RelativeToolTip": "BlazorApp1\\wwwroot\\JS\\Particles.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-22T01:06:53.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CardViewer.razor",
+              "DocumentMoniker": "C:\\Users\\thela\\source\\repos\\BlazorApp1\\BlazorApp1\\Components\\Pages\\CardViewer.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\CardViewer.razor",
+              "ToolTip": "C:\\Users\\thela\\source\\repos\\BlazorApp1\\BlazorApp1\\Components\\Pages\\CardViewer.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\CardViewer.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T19:11:52.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\thela\\source\\repos\\BlazorApp1\\BlazorApp1\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\thela\\source\\repos\\BlazorApp1\\BlazorApp1\\Components\\App.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T00:30:07.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardViewer.razor.css",
+              "DocumentMoniker": "C:\\Users\\thela\\source\\repos\\BlazorApp1\\BlazorApp1\\Components\\Pages\\CardViewer.razor.css",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\CardViewer.razor.css",
+              "ToolTip": "C:\\Users\\thela\\source\\repos\\BlazorApp1\\BlazorApp1\\Components\\Pages\\CardViewer.razor.css",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\CardViewer.razor.css",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAUwLkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-21T19:12:17.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\thela\\source\\repos\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\thela\\source\\repos\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T22:37:02.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
