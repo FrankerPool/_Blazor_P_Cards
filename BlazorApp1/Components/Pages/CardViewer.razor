@@ -1,6 +1,5 @@
 @page "/Card"
 @inject IJSRuntime JS
-<PageTitle>Home</PageTitle>
 <div class="card-container">
     <div id="pokemon-card" class="card">
         <div class="card-front">
@@ -20,31 +19,20 @@
         <h1>Arcanine ex</h1>
   </div>
   
-  <div class="card-buttons-container">
-        <button type="button" class="">+ Favorite</button>
-        <button type="button" class="">+ Played</button>
-        <button type="button" class="">+ Wishlist</button>
-  </div>
-  
   <div class="rating-stars">
-    <p>★</p>
-    <p>★</p>
-    <p>★</p>
-    <p>★</p>
-    <p>★</p>
-    <p>★</p>
-    <p>★</p>
-    <p>★</p>
-    <p>★</p>
-    <p>★</p>
-  </div>
-  
-  <div class="card-actions">
-  <div class="action">Review</div>
-  <div class="action">Follow</div>
-  <div class="action">Like</div>
+    <p class="star" data-value="1">★</p>
+    <p class="star" data-value="2">★</p>
+    <p class="star" data-value="3">★</p>
+    <p class="star" data-value="4">★</p>
+    <p class="star" data-value="5">★</p>
+    <p class="star" data-value="6">★</p>
+    <p class="star" data-value="7">★</p>
+    <p class="star" data-value="8">★</p>
+    <p class="star" data-value="9">★</p>
+    <p class="star" data-value="10">★</p>
   </div>
 </div>
 
 <script src="./JS/CardViewer.js"></script>
 <script src="./JS/Particles.js"></script>
+<script src="./JS/Star.js"></script>
