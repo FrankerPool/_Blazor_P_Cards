@@ -107,7 +107,7 @@ body {
     text-align: center;
 }
 
-/* Botón efecto hover opcional */
+/* Botï¿½n efecto hover opcional */
 .card-buttons-container button:hover {
     background-color: #F47938;
     color: white;
@@ -144,7 +144,7 @@ body {
     justify-content: center;
     align-items: center;
 }
-/* Contenedor de estrellas específico */
+/* Contenedor de estrellas especï¿½fico */
 .rating-stars {
     margin: 10px 0;
     background-color: #333333;
@@ -154,7 +154,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 2px; /* específico para estrellas */
+    gap: 2px; /* especï¿½fico para estrellas */
 }
 .rating-stars p {
     color: white;
@@ -229,14 +229,14 @@ body {
     }
 }
 .fire-particles {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     pointer-events: none;
-    width: 100%;
-    height: 100%;
-    z-index: 100;
-    transform: translateZ(1px);
+    width: 100vw;
+    height: 100vh;
+    z-index: 9999;
+
 }
 #pokemon-card {
     animation: spin 5s linear infinite;

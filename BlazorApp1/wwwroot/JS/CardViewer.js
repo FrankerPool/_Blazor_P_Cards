@@ -1,5 +1,4 @@
 ﻿document.addEventListener("DOMContentLoaded", () => {
-    console.log("Document ready");
 
     const card = document.getElementById("pokemon-card");
 
@@ -7,10 +6,8 @@
         console.log("Tarjeta encontrada!");
 
         card.addEventListener("mouseenter", () => {
-            console.log("Hover activado");
 
             const currentAngle = getCurrentRotation(card);
-            console.log("Ángulo actual: " + currentAngle);
 
             // Pausar animación infinita
             card.classList.add("paused");
@@ -23,7 +20,6 @@
         });
 
         card.addEventListener("mouseleave", () => {
-            console.log("Hover desactivado");
 
             // Quitar animación de girar al frente
             card.classList.remove("to-front");
